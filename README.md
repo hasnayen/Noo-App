@@ -1,2 +1,2 @@
-This is my first project
+Assignment 01
 ## Ornil
